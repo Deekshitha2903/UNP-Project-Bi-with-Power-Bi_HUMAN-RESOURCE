@@ -6,4 +6,4 @@ Based on  the analysis we came up with insights and suggestions that optimized w
  Analyzed trends. 
 Empower decision-makers with actionable insights for effective talent retention and strategic HR planning.
 Pbix link: https://drive.google.com/file/d/11WvHMwJXXz2EKO9pYL2tKosMsP6Zdo9d/view?usp=drive_link
-Pdf link: https://drive.google.com/file/d/1k36dp7wV2XevTk49L0T0LahZrpcuQIh8/view?usp=drive_link
+Pdf link: https://docs.google.com/presentation/d/17yKr8jSoWfbldZf456VUymM1PRtbq6ti/edit?usp=drive_link&ouid=102247654538896826068&rtpof=true&sd=true
